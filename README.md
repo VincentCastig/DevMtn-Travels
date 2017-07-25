@@ -51,7 +51,7 @@ A few things have been included for you
 Take a look at how the routes are broken into folders. This is a very easy way to keep things modular!
 * 'styles/' folder -- stores all of our associated css files
 * 'img/' folder -- stores all of our associated images
-* 'js/' folder -- stores all of our associated js files. We could even modulate this more by creating a folder for services and controllers
+* 'js/' folder -- stores all of our associated js files. We could even modulate this more by creating a folder for services and controllers.
 * 'views/' folder -- stores all of our associated view.html files.
 
 

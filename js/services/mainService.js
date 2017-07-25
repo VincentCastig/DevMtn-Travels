@@ -80,4 +80,13 @@ angular.module('devmtnTravel').service('mainSrv', function(){
 				price: 1722.12
 			},
 		]
+
+this.getLocation = function(id){
+  for(i = 0; i < this.packageInfo.length; i++){
+    if(id == this.packageInfo[i].id){
+      return this.packageInfo[i]
+    }
+  }
+}
+
 })
